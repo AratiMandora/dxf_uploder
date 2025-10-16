@@ -1,0 +1,16 @@
+{
+  "name": "DXF Uploader",
+  "label": "DXF Uploader",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "author": "you",
+  "description": "Upload a DXF and render entities to the map",
+  "dependency": "jimu-arcgis",
+  "type": "widget",
+  "properties": {
+    "hasSettingPage": true
+  },
+  "translatedLocales": [
+    "en"
+  ]
+}
